@@ -4,7 +4,11 @@ I'm **Ernest**. I'm a digital humanist. I work in academic publishing and profes
 -->
 <p></p>
 
+![My Skills](https://skillicons.dev/icons?i=html,css,django,docker,git,js,latex,py,vscode,wasm&theme=light)
+
+<!--
 [![My Skills](https://skillicons.dev/icons?i=html,css,django,docker,git,js,latex,py,vscode,wasm&theme=light)](https://skillicons.dev)
+-->
 
 <!--
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
