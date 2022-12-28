@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,django,docker,git,js,latex,py,vscode,wasm&theme=light)](https://skillicons.dev)
+
 <!--
 **ErnestSuyver/ErnestSuyver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+see also" https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 -->
