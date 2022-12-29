@@ -1,8 +1,10 @@
+<!--
 ![Header](./assets/github-header-image.png)
+-->
 
 ### Hi there 👋
 <!--
-I'm **Ernest**. I'm a digital humanist. I work in academic publishing and professional knowledge management. 
+I'm **Ernest**. I work in academic publishing and professional knowledge management. I specialize in Digital Humanities.
 -->
 <p></p>
 
