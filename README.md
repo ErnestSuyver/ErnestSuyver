@@ -8,11 +8,9 @@ I'm **Ernest**. I work in academic publishing and professional knowledge managem
 -->
 <p></p>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,django,docker,git,js,latex,py,vscode,wasm&theme=light)
+![My Skills](https://skillicons.dev/icons?i=css,django,docker,git,github,gitlab,graphql,html,js,latex,matlab,md,mongodb,mysql,nginx,py,regex,sqlite,vscode,vue,wasm&theme=light&perline=7)
 
-<!--
-[![My Skills](https://skillicons.dev/icons?i=html,css,django,docker,git,js,latex,py,vscode,wasm&theme=light)](https://skillicons.dev)
--->
+<!-- ![My socials](https://skillicons.dev/icons?i=discord,linkedin,mastodon,twitter&theme=light) -->
 
 <!--
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
