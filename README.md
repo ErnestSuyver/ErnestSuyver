@@ -2,14 +2,27 @@
 ![Header](./assets/github-header-image.png)
 -->
 
-### Hi there 👋
+### Hi there 👋 I'm Ernest
+- 📚 I'm a project manager with a background in academic publishing
+- 💬 Ask me about Digital Humanities
+- 🔭 I’m currently working on professional and personal knowledge management
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on data science projects <!-- in the context of Digital Humanities -->
+- 📫 [Email](mailto:ernestsuyver@gmail.com) me
+
 <!--
 I'm **Ernest**. I work in academic publishing and professional knowledge management. I specialize in Digital Humanities.
 -->
 <p></p>
 
+<p></p>
+<details>
+  <summary>Learning 💪</summary>
+  
 ![My Skills](https://skillicons.dev/icons?i=css,django,docker,git,github,gitlab,graphql,html,js,latex,matlab,md,mongodb,mysql,nginx,py,regex,sqlite,vscode,vue,wasm&theme=light&perline=7)
 
+</details>
+  
 <!-- ![My socials](https://skillicons.dev/icons?i=discord,linkedin,mastodon,twitter&theme=light) -->
 
 <!--
@@ -23,8 +36,12 @@ I'm **Ernest**. I work in academic publishing and professional knowledge managem
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ErnestSuyver&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestSuyver&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ErnestSuyver&theme=swift&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestSuyver&layout=compact&theme=light&count_private=true&hide_border=true)</a>
+  <!--
+  <a href="#">![GitHub Streak](https://streak-stats.demolab.com?user=ErnestSuyver&theme=ayu-light)</a>
+  <a href="#">![trophy](https://github-profile-trophy.vercel.app/?username=ErnestSuyver)</a>
+-->
 </details>
 
 
@@ -76,3 +93,5 @@ see also" https://docs.github.com/en/account-and-profile/setting-up-and-managing
 
  </details>
 -->
+
+![profile views](https://komarev.com/ghpvc/?username=ErnestSuyver&label=Profile%20views&color=db654b&style=flat-square)
